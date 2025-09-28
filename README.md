@@ -55,11 +55,6 @@ It provides **insights into ride volume, booking trends, cancellations, payment 
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 📷 Dashboard Previews
 ### Ride Volume & Booking Status
 ![Booking Trends](Screenshots/booking_trends.png)
